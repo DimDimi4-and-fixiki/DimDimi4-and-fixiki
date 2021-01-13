@@ -4,9 +4,9 @@
 
 ## I'm a Student, Developer, and Writer!!
 
-- [<img src="https://vk.com/emoji/e/f09f8eb2.png" alt="Game Image" width="350" />] My chess AI: [Play a Chess game][chess]!
--  [<img src="https://vk.com/emoji/e/f09fa493.png" alt="Game Image" width="350" />] I’m keen on learning new tools
-- [<img src="https://vk.com/emoji/e/f09f92bc.png" alt="Game Image" width="350" />] Looking for job/internship offers
+- <img src="https://vk.com/emoji/e/f09f8eb2.png" alt="Game Image" width="25px" /> My chess AI: [Play a Chess game][chess]!
+-  <img src="https://vk.com/emoji/e/f09fa493.png" alt="Game Image" width="25px" /> I’m keen on learning new tools
+- <img src="https://vk.com/emoji/e/f09f92bc.png" alt="Game Image" width="25px" /> Looking for job/internship offers
 
 
 
