@@ -2,7 +2,7 @@
 
 
 
-## I'm a Student, Developer, and Writer!!
+## I'm a Student, Developer, and Teacher!!
 
 - <img src="https://vk.com/emoji/e/f09f8eb2.png" alt="Game Image" width="25px" /> My chess AI: [Play a Chess game][chess]!
 -  <img src="https://vk.com/emoji/e/f09fa493.png" alt="Game Image" width="25px" /> I’m keen on learning new tools
