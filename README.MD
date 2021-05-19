@@ -6,7 +6,7 @@
 
 - <img src="https://vk.com/emoji/e/f09f8eb2.png" alt="Game Image" width="25px" /> My chess AI: [Play a Chess game][chess]!
 -  <img src="https://vk.com/emoji/e/f09fa493.png" alt="Game Image" width="25px" /> I’m keen on learning new tools
-- <img src="https://vk.com/emoji/e/f09f92bc.png" alt="Game Image" width="25px" /> Backend/Data Engeneering at <a href="https://www.oliverwyman.com/index.html">Oliver Wyman<a/>
+- <img src="https://vk.com/emoji/e/f09f92bc.png" alt="Game Image" width="25px" /> Backend/Data Engineering at <a href="https://www.oliverwyman.com/index.html">Oliver Wyman<a/>
 - <img src="https://vk.com/emoji/e/f09f92bb.png" width="25px"/>  <a href="https://dimdimi4-and-fixiki.github.io/"> My website with projects and resume <a/>
 
 
