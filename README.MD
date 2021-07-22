@@ -45,7 +45,7 @@
 
 
 [website]: https://dimdimi4-and-fixiki.github.io/
-[chess]: https://ultra-chess.herokuapp.com/
+[chess]: https://super-chess-ai.herokuapp.com/
 
 [instagram]: https://instagram.com/dimdimi4_and_fixiki
 [linkedin]: https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%BA%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD-a3a211202/
